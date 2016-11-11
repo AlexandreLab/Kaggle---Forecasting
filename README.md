@@ -1,2 +1,4 @@
 # Kaggle---Forecasting
-Forecasting competition 2012
+
+see ongoing branch for current code.
+
